@@ -1,0 +1,2 @@
+mavproxy.py --master=udp:192.168.1.1:14550
+mavproxy.py --master=udp:192.168.1.9:14550 --aircraft MyCopter
